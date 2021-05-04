@@ -1,1 +1,1 @@
-# trex1
+# Box Class
